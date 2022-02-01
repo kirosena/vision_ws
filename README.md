@@ -10,3 +10,9 @@ Hal yang perlu di enhance :
 - Mapping dan localization menggunakan front camera dan 360 camera
 - Hubungan antara kamera dengan pergerakan robot
 - Convolutional Neural Network (CNN)
+
+
+Kalau mau pake tinggal :
+--> Download
+--> masuk ke workspace, $catkin_make
+--> nanti ke build up, directory build dan devel nya nanti muncul
